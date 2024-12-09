@@ -1,1 +1,1 @@
-finab/bark-server:latest realname-images/mybarkserver:v1
+finab/bark-server:latest
