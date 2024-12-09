@@ -1,1 +1,1 @@
-finab/bark-server
+finab/bark-server:latest
